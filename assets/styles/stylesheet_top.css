@@ -1,0 +1,19 @@
+/* https://colourco.de/monochrome-light/5/230c0c */ 
+body {
+  background-color: #070707;
+  color: #CCCCCC;
+}
+
+a {
+color:#C14144;
+}
+
+img{
+  width: 700px; height: 700px;
+  object-fit: contain;
+}
+p {
+  text-align:center;
+}
+
+.tanasinn_contents {text-align: center;}

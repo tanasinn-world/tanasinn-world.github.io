@@ -1,0 +1,14 @@
+/* https://colourco.de/monochrome-light/5/230c0c */ 
+body {
+  background-color: white;
+  color: #272727;
+}
+
+a {
+color:#00A6FF;
+}
+
+img{
+  width: 1000px; height: 1000px;
+  object-fit: contain;
+}
