@@ -3,5 +3,5 @@ layout: default
 title: video list
 ---
 
-# game list
+# Game list
 - [Videos for traffic test](/posts/4.html)
